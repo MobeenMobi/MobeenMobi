@@ -1,32 +1,29 @@
-### Hi, I'm Mobeen — Senior .NET Engineer & Team Lead
+### Mobeen — Senior Backend Engineer & AI Systems Builder
 
-🔭 Building distributed systems with .NET 8,10, Azure & Semantic Kernel  
-🌍 Open to UK remote contracts (outside IR35) & Netherlands relocation  
-🤖 Working on AI agent automation with Azure OpenAI + Semantic Kernel  
-📚 180-day public learning journey — daily commits, real progress
+Production backend engineer with 9+ years building distributed systems that move money, handle scale, and don't fall over. I design clean architectures, lead teams, and build AI capabilities on top of real engineering — not wrappers.
 
-**Stack:** C# · ASP.NET Core · Microservices · Azure · React · SQL
+🏗️ **Distributed systems** — microservices, event-driven, Clean Architecture
+🤖 **AI systems** — Azure OpenAI + Semantic Kernel, agentic workflows, RAG, Going deep — LLM fine-tuning (LoRA/QLoRA), quantization & serving (vLLM)
+💳 **Domain depth** — fintech (remittance, Mastercard/Tranglo), travel-tech (GDS/NDC), healthcare
+🌍 **Remote (Worldwide / EU)** · Netherlands,Germany & Ireland relocation-ready
 
----
-
-## 🗺️ 180-Day Learning Journeys
-
-> Started: May 12, 2026 — Building in public. Every folder = real work, not tutorials.
-
-| Journey | Repo | Focus |
-|---|---|---|
-| 📐 DSA | [dsa-journey](https://github.com/MobeenMobi/dsa-journey) | Arrays, Trees, Graphs, DP — daily LeetCode with .NET |
-| 🏗️ System Design | [system-design-journey](https://github.com/MobeenMobi/system-design-journey) | HLD/LLD, distributed patterns, real architecture notes |
-| ☁️ Microservices + Azure | [microservices-azure-journey](https://github.com/MobeenMobi/microservices-azure-journey) | Service Bus, API Gateway, AKS, CI/CD pipelines |
-| 🤖 AI Integration | [ai-journey](https://github.com/MobeenMobi/ai-journey) | Semantic Kernel, Azure OpenAI, AI agent patterns in C# |
+**Stack:** C# · ASP.NET Core · Python · FastAPI · Semantic Kernel · Azure OpenAI · Microservices · Azure · AWS · SQL · Redis · Docker
 
 ---
 
-## 🔧 What I'm building
+## 🔧 Selected Work
 
-- **AI Agents for Business Automation** — .NET 8,10 + Semantic Kernel + Azure OpenAI targeting UK/EU accounting workflows  
-- **Flight Search Aggregator** — GDS/NDC/LCC multi-supplier platform, Redis, EF Core, multi-currency  
-- **Currency Service** — Clean Architecture, Quartz.NET, JWT, 90+ unit/integration tests
+**Cross-Border Remittance Platform (MobilityOne)** — Led delivery & owned partner integrations
+Led the remittance platform and personally built integrations with eight financial institutions across multiple corridors — MoneyGram, Mastercard, Tranglo, BNI, City Express (Nepal), Askari Bank (Pakistan), Dahabshiil (Somalia), and Islamic Bank (Bangladesh). End-to-end ownership of cross-border money movement: multi-partner orchestration, settlement, and compliance-grade reliability.
+
+**Flight Search Aggregator** — Multi-supplier GDS/NDC/LCC platform
+Real-time search across multiple airline suppliers, Redis caching, EF Core, multi-currency handling. Built for an OTA platform serving live bookings.
+
+**Currency Conversion Microservice** — Clean Architecture · Quartz.NET · JWT · 90+ tests
+Production currency service with scheduled rate ingestion, full auth, and a comprehensive test suite. Drop-in microservice with clean boundaries.
+
+**AI Agent Automation** — Azure OpenAI + Semantic Kernel
+Agent-based automation for business back-office workflows, built on a .NET + Azure OpenAI stack.
 
 ---
 
