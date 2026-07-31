@@ -1,31 +1,34 @@
-### Mobeen — Senior Backend Engineer & AI Systems Builder
+### Sheikh Mobeen Ahmad
 
-Production backend engineer with 9+ years building distributed systems that move money, handle scale, and don't fall over. I design clean architectures, lead teams, and build AI capabilities on top of real engineering — not wrappers.
+**Senior Backend Engineer (.NET) | Cloud & Distributed Systems | Building Scalable + AI-Enabled APIs**
 
-🏗️ **Distributed systems** — microservices, event-driven, Clean Architecture
-🤖 **AI systems** — Azure OpenAI + Semantic Kernel, agentic workflows, RAG, MCP
-💳 **Domain depth** — fintech (remittance, Mastercard/Tranglo), travel-tech (GDS/NDC), healthcare
-🌍 **Remote (Worldwide / EU)** · Netherlands,Germany & Ireland relocation-ready
+Backend engineer with 9+ years building production systems that move money, handle scale, and stay reliable under pressure. I design clean architectures, lead teams, and deliver backend platforms used in fintech, travel, and healthcare.
 
-**Stack:** C# · ASP.NET Core · Python · FastAPI · Semantic Kernel · Azure OpenAI · Microservices · Azure · AWS · SQL · Redis · Docker
+🏗️ **Distributed Systems** — Microservices, event-driven architecture, Clean Architecture
+☁️ **Cloud & Platforms** — Azure, AWS, Docker, scalable backend systems
+🤖 **AI Integration** — Azure OpenAI, Semantic Kernel, RAG-based workflows
+💳 **Domain Expertise** — Fintech (remittance), Travel (GDS/NDC), Healthcare
 
----
-
-## 🔧 Selected Work
-
-**Cross-Border Remittance Platform (MobilityOne)** — Led delivery & owned partner integrations
-Led the remittance platform and personally built integrations with eight financial institutions across multiple corridors — MoneyGram, Mastercard, Tranglo, BNI, City Express (Nepal), Askari Bank (Pakistan), Dahabshiil (Somalia), and Islamic Bank (Bangladesh). End-to-end ownership of cross-border money movement: multi-partner orchestration, settlement, and compliance-grade reliability.
-
-**Flight Search Aggregator** — Multi-supplier GDS/NDC/LCC platform
-Real-time search across multiple airline suppliers, Redis caching, EF Core, multi-currency handling. Built for an OTA platform serving live bookings.
-
-**Currency Conversion Microservice** — Clean Architecture · Quartz.NET · JWT · 90+ tests
-Production currency service with scheduled rate ingestion, full auth, and a comprehensive test suite. Drop-in microservice with clean boundaries.
-
-**AI Agent Automation** — Azure OpenAI + Semantic Kernel
-Agent-based automation for business back-office workflows, built on a .NET + Azure OpenAI stack.
+🌍 Open to **remote roles (worldwide)** · Relocation: Netherlands, Germany, Ireland
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh_Mobeen-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sheikh-mobeen-ahmad-85a55b101/)
-[![Email](https://img.shields.io/badge/Email-shiekhmobeen-D14836?style=flat&logo=gmail)](mailto:shiekhmobeenahmad@gmail.com)
+### 🔧 Selected Work
+
+**Cross-Border Remittance Platform (MobilityOne)**
+Led backend delivery and built integrations with multiple financial partners including MoneyGram, Mastercard, Tranglo, and regional banks. Worked on multi-corridor remittance flows, partner orchestration, and high-reliability transaction systems.
+
+**Flight Search Aggregator**
+Built a multi-supplier flight search platform integrating GDS/NDC/LCC providers. Implemented caching (Redis), multi-currency pricing, and scalable APIs for real-time search.
+
+**Currency Conversion Microservice**
+Designed a production-ready microservice with scheduled rate ingestion, authentication (JWT), and strong test coverage. Built using Clean Architecture principles.
+
+**AI Agent Automation**
+Developed backend workflows using Azure OpenAI and Semantic Kernel to automate business processes and integrate AI capabilities into existing systems.
+
+---
+
+### 🧰 Tech Stack
+
+C# · ASP.NET Core · Python · FastAPI · Azure · AWS · Microservices · Redis · SQL · Docker · Semantic Kernel · Azure OpenAI
