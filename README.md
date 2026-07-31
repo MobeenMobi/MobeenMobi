@@ -3,7 +3,7 @@
 Production backend engineer with 9+ years building distributed systems that move money, handle scale, and don't fall over. I design clean architectures, lead teams, and build AI capabilities on top of real engineering — not wrappers.
 
 🏗️ **Distributed systems** — microservices, event-driven, Clean Architecture
-🤖 **AI systems** — Azure OpenAI + Semantic Kernel, agentic workflows, RAG, Going deep — LLM fine-tuning (LoRA/QLoRA), quantization & serving (vLLM)
+🤖 **AI systems** — Azure OpenAI + Semantic Kernel, agentic workflows, RAG, MCP
 💳 **Domain depth** — fintech (remittance, Mastercard/Tranglo), travel-tech (GDS/NDC), healthcare
 🌍 **Remote (Worldwide / EU)** · Netherlands,Germany & Ireland relocation-ready
 
