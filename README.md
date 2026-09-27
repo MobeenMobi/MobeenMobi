@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer (.NET) | Cloud & Distributed Systems | Building Scalable + AI-Enabled APIs**
 
-Backend engineer with 9+ years building production systems that move money, handle scale, and stay reliable under pressure. I design clean architectures, lead teams, and deliver backend platforms used in fintech, travel, and healthcare.
+Backend engineer with 10+ years building production systems that move money, handle scale, and stay reliable under pressure. I design clean architectures, lead teams, and deliver backend platforms used in fintech, travel, and healthcare.
 
 🏗️ **Distributed Systems** — Microservices, event-driven architecture, Clean Architecture
 ☁️ **Cloud & Platforms** — Azure, AWS, Docker, scalable backend systems
